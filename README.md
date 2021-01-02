@@ -14,7 +14,7 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ## Layout Web
 ![Web 1](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-inicial.png)
-![Web 2](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-registros.png)
+![Web 2](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-registros-v2.png)
 ![Web 3](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-tabelas.png)
 
 ## Modelo Conceitual
