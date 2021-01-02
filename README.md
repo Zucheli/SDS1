@@ -10,15 +10,15 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout Mobile
-![Mobile 1]() ![Mobile 2]()
+![Mobile 1](https://github.com/Zucheli/sds1/blob/master/assets/mobile-tela-inicial.jpeg) ![Mobile 2](https://github.com/Zucheli/sds1/blob/master/assets/mobile-tela-registros.jpeg)
 
 ## Layout Web
-![Web 1]()
-![Web 2]()
-![Web 3]()
+![Web 1](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-inicial.png)
+![Web 2](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-registros.png)
+![Web 3](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-tabelas.png)
 
 ## Modelo Conceitual
-![Conceitual]()
+![Conceitual](https://github.com/Zucheli/sds1/blob/master/assets/conceitual.png)
 
 # Tecnologias utilizadas
 ## Back-End
