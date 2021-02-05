@@ -3,7 +3,8 @@
 
 # Sobre o Projeto
 
-https://sds1-zucheli.netlify.app
+- [Site](https://sds1-zucheli.netlify.app)
+- [APK](https://github.com/Zucheli/sds1/tree/master/apk)
 
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com).
 
