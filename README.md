@@ -1,7 +1,7 @@
 # Big Game Survey
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Zucheli/sds1/blob/master/LICENSE) 
 
-# Sobre o Projeto
+# Sobre o Projeto / About Project
 
 - [Site](https://sds1-zucheli.netlify.app)
 - [APK](https://github.com/Zucheli/sds1/blob/master/apk/Big_Game_Survey.apk)
