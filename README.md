@@ -10,6 +10,10 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
+Big Game Survey is a full stack web and mobile application built during the 1st edition of **Semana DevSuperior** (# sds1), an event organized by [DevSuperior] (https://devsuperior.com).
+
+The application consists of a game preference survey, where data is collected on the mobile app, and then is listed on the web app, which also features a dashboard with graphics based on this data. 
+
 ## Layout Mobile
 ![Mobile 1](https://github.com/Zucheli/sds1/blob/master/assets/mobile-tela-inicial.jpeg) ![Mobile 2](https://github.com/Zucheli/sds1/blob/master/assets/mobile-tela-registros.jpeg)
 
@@ -18,10 +22,10 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 ![Web 2](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-registros-v2.png)
 ![Web 3](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-tabelas.png)
 
-## Modelo Conceitual
+## Modelo Conceitual / Conceptual Model
 ![Conceitual](https://github.com/Zucheli/sds1/blob/master/assets/conceitual.png)
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas / Technologies used
 ## Back-End
 - Java
 - Spring Boot
@@ -33,12 +37,12 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 - React Native
 - Apex Charts
 - Expo
-## Implantação em produção
+## Implantação em produção / Deployment in production
 - Back-End: Heroku
 - Front-End Web: Netlify
 - Banco de Dados: Postgresql
 
-# Como executar o projeto
+# Como executar o projeto / How to run the project
 
 ## Back end
 Pré-requisitos: Java 11
@@ -71,7 +75,7 @@ npm install
 npm run start
 ```
 
-# Autor
+# Autor / Author
 
 Mateus Henrique Zucheli 
 
