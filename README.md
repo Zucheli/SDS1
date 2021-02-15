@@ -77,6 +77,6 @@ npm run start
 
 # Autor / Author
 
-Mateus Henrique Zucheli 
+Mateus Zucheli 
 
 https://www.linkedin.com/in/mateus-zucheli-8b5b76171/
