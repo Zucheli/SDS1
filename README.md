@@ -1,7 +1,7 @@
 # Big Game Survey
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Zucheli/sds1/blob/master/LICENSE) 
 
-## Sobre o Projeto / About Project
+## About Project
 
 - [Site](https://sds1-zucheli.netlify.app)
 - [APK](https://github.com/Zucheli/sds1/blob/master/apk/Big_Game_Survey.apk)
@@ -22,10 +22,10 @@ The application consists of a game preference survey, where data is collected on
 ![Web 2](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-registros-v2.png)
 ![Web 3](https://github.com/Zucheli/sds1/blob/master/assets/web-tela-tabelas.png)
 
-## Modelo Conceitual / Conceptual Model
+## Conceptual Model
 ![Conceitual](https://github.com/Zucheli/sds1/blob/master/assets/conceitual.png)
 
-## Tecnologias utilizadas / Technologies used
+## Technologies used
 ### Back-End
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -44,7 +44,7 @@ The application consists of a game preference survey, where data is collected on
 - Front-End Web: ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 - Banco de Dados: ![PostgresQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Como executar o projeto / How to run the project
+## How to run the project
 
 ### Back end
 Pré-requisitos: Java 11
@@ -77,5 +77,5 @@ npm install
 npm run start
 ```
 
-## Autor / Author
+## Author
 ![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
