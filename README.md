@@ -6,7 +6,7 @@
 - [APK](https://github.com/Zucheli/sds1/blob/master/apk/Big_Game_Survey.apk)
 
 ## About Project
-Big Game Survey is a full stack web and mobile application built during the 1st edition of **Semana DevSuperior** (# sds1), an event organized by [DevSuperior] (https://devsuperior.com).
+Big Game Survey is a full stack web and mobile application built during the 1st edition of **Semana DevSuperior** (# sds1), an event organized by [DevSuperior](https://devsuperior.com).
 
 The application consists of a game preference survey, where the data is collected in the mobile app, and then they are listed on the website, which also features a dashboard with graphics based on this data. 
 
