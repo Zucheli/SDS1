@@ -2,8 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Zucheli/sds1/blob/master/LICENSE) 
 
 ## Site and APK
-- [Site](https://sds1-zucheli.netlify.app)
-- [APK](https://github.com/Zucheli/sds1/blob/master/apk/Big_Game_Survey.apk)
+[Site](https://sds1-zucheli.netlify.app)
 
 ## About Project
 Big Game Survey is a full stack web and mobile application built during the 1st edition of **Semana DevSuperior** (# sds1), an event organized by [DevSuperior](https://devsuperior.com).
